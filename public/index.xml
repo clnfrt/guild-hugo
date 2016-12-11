@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guilden FIKA</title>
+    <link>https://www.fikawow.se/index.xml</link>
+    <description>Recent content on Guilden FIKA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <atom:link href="https://www.fikawow.se/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+[submodule "clnfrt.github.io"]
+	path = clnfrt.github.io
+	url = git@github.com:clnfrt/clnfrt.github.io.git
