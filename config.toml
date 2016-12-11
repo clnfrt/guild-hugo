@@ -1,4 +1,4 @@
-baseurl = "https://www.fikawow.se/"
+baseurl = "https://clnfrt.github.io/"
 languageCode = "sv-se"
 title = "Guilden FIKA"
 theme = "hugo-creative-theme"
