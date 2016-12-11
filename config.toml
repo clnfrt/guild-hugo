@@ -21,8 +21,8 @@ publishdir = "clnfrt.github.io"
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "Your name"
-	description = "Your description"
+	name = "Guilden FIKA"
+	description = "Swedish Elysium Alliance guild"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -75,8 +75,8 @@ publishdir = "clnfrt.github.io"
 
         [[params.services.list]]
             icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+            title = "Raid tider:"
+            description = "TBA"
 
 
     # Portfolio modals
