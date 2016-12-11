@@ -49,7 +49,7 @@ publishdir = "clnfrt.github.io"
 
 	# About section
 	[params.about]
-		headline    = "Gör Azeroth Lagom igen!"
+		headline    = "Gör Azeroth lagom igen!"
 		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
 		buttonText  = "Ta mig till rekryteringssidan!"
 
