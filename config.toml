@@ -56,7 +56,7 @@ publishdir = "clnfrt.github.io"
 
 	# Service section
 	[params.services]
-		headline = "Information om oss."
+		headline = "Information om oss"
 
         [[params.services.list]]
             icon = "fa-diamond"
@@ -88,10 +88,10 @@ publishdir = "clnfrt.github.io"
 
     # Aside section
 	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
+		headline = "Läs våra regler"
 
 		[params.aside.button]
-			text = "Download now"
+			text = "Raid/Loot-regler"
 			link = "//github.com/digitalcraftsman/hugo-creative-theme"
 
 	# Contact section
