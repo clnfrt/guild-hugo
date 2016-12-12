@@ -52,6 +52,7 @@ publishdir = "clnfrt.github.io"
 		headline    = "Gör Azeroth lagom igen!"
 		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
 		buttonText  = "Ta mig till rekryteringssidan!"
+		link        = "//lmgtfy.com/?q=kommer+fattaru+v%C3%A4l"
 
 
 	# Service section
@@ -92,14 +93,14 @@ publishdir = "clnfrt.github.io"
 
 		[params.aside.button]
 			text = "Raid/Loot-regler"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+			link = "//lmgtfy.com/?q=kommer+fattaru+v%C3%A4l"
 
 	# Contact section
 	[params.contact]
-		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
+		headline = "Lorem ipsum dolor sit amet"
+		description = "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		email = "dev@null.com"
 
 	# Google Maps section
 	# [params.location]
