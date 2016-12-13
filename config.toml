@@ -1,6 +1,6 @@
 baseurl = "https://clnfrt.github.io/"
 languageCode = "sv-se"
-title = "Guilden FIKA"
+title = "<FIKA>"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 publishdir = "clnfrt.github.io"
@@ -30,7 +30,7 @@ publishdir = "clnfrt.github.io"
 
 	# Navigation
 	[params.navigation]
-		brand = "Guilden FIKA"
+		brand = "\\<FIKA\\> @ Elysium"
 
 		[params.navigation.links]
 			about     = "Ansök"
@@ -50,7 +50,7 @@ publishdir = "clnfrt.github.io"
 	# About section
 	[params.about]
 		headline    = "Gör Azeroth lagom igen!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		description = "\\<FIKA\\> är en nystartad guild, belägen på den nyöppnade servern Elysium PVP. Många befintliga medlemmar kommer från guilden \\<Andromeda\\> från Nostalrius PVP. Denna gång satsar vi på en helsvensk guild, med en social och trevlig miljö och med medlemmar som kan sin skit. De flesta av oss har även spelat på högre nivåer under Vanilla. Vi planerar att kunna sänka de flesta bossar utan större anstränging."
 		buttonText  = "Ta mig till rekryteringssidan!"
 		link        = "//lmgtfy.com/?q=kommer+fattaru+v%C3%A4l"
 
