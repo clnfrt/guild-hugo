@@ -50,7 +50,7 @@ publishdir = "clnfrt.github.io"
 	# About section
 	[params.about]
 		headline    = "Gör Azeroth lagom igen!"
-		description = "\\<FIKA\\> är en nystartad guild, belägen på den nyöppnade servern Elysium PVP. Många befintliga medlemmar kommer från guilden \\<Andromeda\\> från Nostalrius PVP. Denna gång satsar vi på en helsvensk guild, med en social och trevlig miljö fast med välstrukturerade raids. De flesta av oss har även spelat på högre nivåer under Vanilla."
+		description = "\\<FIKA\\> är en nystartad guild, belägen på den nyöppnade servern Elysium PVP. Många befintliga medlemmar kommer från guilden \\<Andromeda\\> från Nostalrius PVP. Denna gång satsar vi på en helsvensk guild, en social och trevlig miljö med välstrukturerade raids. De flesta av oss har spelat på högre nivåer i Vanilla."
 		buttonText  = "Ta mig till rekryteringssidan!"
 		link        = "//lmgtfy.com/?q=kommer+fattaru+v%C3%A4l"
 
