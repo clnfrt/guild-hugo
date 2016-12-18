@@ -59,12 +59,12 @@ publishdir = "clnfrt.github.io"
 		headline = "Information om oss"
 
         [[params.services.list]]
-            icon = "fa-shield"
+            icon = "fa-line-chart"
             title = "Realmplayers"
             description = "[Topping the charts](//realmplayers.com/CharacterViewer.aspx?realm=NRB&player=Skitzi)"
 
         [[params.services.list]]
-			icon = "fa-headphones"
+			icon = "fa-volume-up"
 			title = "Discord"
 			description = "[https://discord.gg/yhwaRXx](//discord.gg/yhwaRXx)"
 
@@ -96,10 +96,10 @@ publishdir = "clnfrt.github.io"
 
 	# Contact section
 	[params.contact]
-		headline = "Lorem ipsum dolor sit amet"
-		description = "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-		phone = "123-456-6789"
-		email = "dev@null.com"
+		headline = "Kontakt"
+		description = "Vi använder primärt Discord som kommunikationsmedel. Tveka inte höra av er med eventuella frågor eller funderingar."
+		phone = "[https://discord.gg/yhwaRXx](//discord.gg/yhwaRXx)"
+		email = "fikaelysium@gmail.com"
 
 	# Google Maps section
 	# [params.location]
