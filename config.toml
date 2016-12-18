@@ -21,7 +21,7 @@ publishdir = "clnfrt.github.io"
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "Guilden FIKA"
+	name = "<FIKA>"
 	description = "Swedish Elysium Alliance guild"
 
 	# The path must be relative to the static folder
