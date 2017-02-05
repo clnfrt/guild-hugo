@@ -43,7 +43,7 @@ publishdir = "clnfrt.github.io"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "\\<Fika\\>"
-		subtitle   = "Swedish [Elysium](//elysium-project.org/) Alliance guild"
+		subtitle   = "Swedish [Elysium PvP](//elysium-project.org/) Alliance guild"
 		buttonText = "Skriv upp dig på gofika idag!"
 
 
@@ -60,8 +60,8 @@ publishdir = "clnfrt.github.io"
 
         [[params.services.list]]
             icon = "fa-line-chart"
-            title = "Realmplayers"
-            description = "[Topping the charts](//realmplayers.com/CharacterViewer.aspx?realm=NRB&player=Skitzi)"
+            title = "Raid Logs"
+            description = "[Realmplayers](//realmplayers.com/RaidStats/RaidList.aspx?realm=Ely&guild=FIKA)"
 
         [[params.services.list]]
 			icon = "fa-volume-up"
@@ -88,7 +88,7 @@ publishdir = "clnfrt.github.io"
 
     # Aside section
 	[params.aside]
-		headline = "Läs våra preliminära regler"
+		headline = "Läs våra regler"
 
 		[params.aside.button]
 			text = "Guild/Loot-regler"
