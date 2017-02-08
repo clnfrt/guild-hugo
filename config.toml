@@ -43,7 +43,7 @@ publishdir = "clnfrt.github.io"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "\\<Fika\\>"
-		subtitle   = "Swedish [Elysium PvP](//elysium-project.org/) Alliance guild"
+		subtitle   = "Swedish [Elysium PvP](//elysium-project.org/) Alliance Guild"
 		buttonText = "Skriv upp dig på gofika idag!"
 
 
