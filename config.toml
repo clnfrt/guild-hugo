@@ -71,7 +71,7 @@ publishdir = "clnfrt.github.io"
 		[[params.services.list]]
             icon = "fa-newspaper-o"
             title = "Progress"
-            description = "MC 0/8 Onyxia 0/1"
+            description = "MC 0/10 Onyxia 0/1"
 
         [[params.services.list]]
             icon = "fa-clock-o"
