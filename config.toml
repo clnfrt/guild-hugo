@@ -1,4 +1,4 @@
-baseurl = "https://www.fikawow.se/"
+baseurl = "http://www.fikawow.se/"
 languageCode = "sv-se"
 title = "<FIKA>"
 theme = "hugo-creative-theme"
