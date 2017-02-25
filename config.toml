@@ -61,7 +61,7 @@ publishdir = "clnfrt.github.io"
         [[params.services.list]]
             icon = "fa-line-chart"
             title = "Raid Logs"
-            description = "[Realmplayers](//realmplayers.com/RaidStats/RaidList.aspx?realm=Ely&guild=FIKA)"
+            description = "[Realmplayers](http://realmplayers.com/RaidStats/RaidList.aspx?realm=Ely&guild=FIKA)"
 
         [[params.services.list]]
 			icon = "fa-volume-up"
