@@ -50,7 +50,7 @@ publishdir = "clnfrt.github.io"
 	# About section
 	[params.about]
 		headline    = "Gör Azeroth lagom igen!"
-		description = "\\<FIKA\\> är en helsvensk guild, belägen på Elysium PVP. Många befintliga medlemmar kommer från guilden \\<Andromeda\\> från Nostalrius PVP. Vi eftersträvar en social och trevlig miljö med välstrukturerade raids. De flesta av oss har spelat på högre nivåer i Vanilla."
+		description = "\\<FIKA\\> är en helsvensk raiding guild, belägen på Elysium PvP. Vi eftersträvar en social och trevlig miljö med välstrukturerade raids. De flesta av oss har spelat på högre nivåer i Vanilla."
 		buttonText  = "Ta mig till rekryteringssidan!"
 
 
@@ -61,7 +61,7 @@ publishdir = "clnfrt.github.io"
         [[params.services.list]]
             icon = "fa-line-chart"
             title = "Raid Logs"
-            description = "[Realmplayers](http://realmplayers.com/RaidStats/RaidList.aspx?realm=Ely&guild=FIKA)"
+            description = "[Realmplayers](http://realmplayers.com/RaidStats/RaidList.aspx?realm=Ely&guild=FIKA) / [Legacy Logs](https://legacy-logs.com/Vanilla/Guild/Elysium/FIKA/0)"
 
         [[params.services.list]]
 			icon = "fa-volume-up"
@@ -71,13 +71,12 @@ publishdir = "clnfrt.github.io"
 		[[params.services.list]]
             icon = "fa-newspaper-o"
             title = "Progress"
-            description = "MC 10**/**10 Onyxia 1**/**1"
+            description = "MC 10**/**10 Onyxia 1**/**1 BWL 0**/8**"
 
         [[params.services.list]]
             icon = "fa-clock-o"
             title = "Raidtider"
             description = "Tor/Sön 19-22"
-
 
     # Portfolio modals
 	[params.portfolio.modal]
