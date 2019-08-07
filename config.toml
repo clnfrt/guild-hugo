@@ -35,7 +35,7 @@ publishdir = "clnfrt.github.io"
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
 	name = "<FIKA>"
-	description = "Swedish Elysium Alliance guild"
+	description = "Swedish Horde PVE Guild"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -43,7 +43,7 @@ publishdir = "clnfrt.github.io"
 
 	# Navigation
 	[params.navigation]
-		brand = "\\<FIKA\\> @ Elysium"
+		brand = "\\<FIKA\\> @ Servername"
 
 		[params.navigation.links]
 			about     = "Ansök"
@@ -56,14 +56,14 @@ publishdir = "clnfrt.github.io"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "\\<Fika\\>"
-		subtitle   = "Swedish [Elysium PvP](//elysium-project.org/) Alliance Guild"
+		subtitle   = "Swedish [PVP *Server*] Horde Guild"
 		buttonText = "Skriv upp dig på gofika idag!"
 
 
 	# About section
 	[params.about]
 		headline    = "Gör Azeroth lagom igen!"
-		description = "\\<FIKA\\> är en helsvensk raiding guild, belägen på Elysium PvP. Vi eftersträvar en social och trevlig miljö med välstrukturerade raids. De flesta av oss har spelat på högre nivåer i Vanilla."
+		description = "\\<FIKA\\> är en helsvensk raiding guild. Vi eftersträvar en social och trevlig miljö med välstrukturerade raids. De flesta av oss har spelat på högre nivåer i Vanilla."
 		buttonText  = "Ta mig till rekryteringssidan!"
 
 
@@ -84,7 +84,7 @@ publishdir = "clnfrt.github.io"
 		[[params.services.list]]
             icon = "fa-newspaper-o"
             title = "Progress"
-            description = "MC 10**/**10 Onyxia 1**/**1 BWL 8**/8**"
+            description = "MC 0**/**10 Onyxia 0**/**1"
 
         [[params.services.list]]
             icon = "fa-clock-o"
@@ -111,7 +111,7 @@ publishdir = "clnfrt.github.io"
 		headline = "Kontakt"
 		description = "Vi använder primärt Discord som kommunikationsmedel. Tveka inte höra av er med eventuella frågor eller funderingar."
 		phone = "[https://discord.gg/yhwaRXx](//discord.gg/yhwaRXx)"
-		email = "fikaelysium@gmail.com"
+		email = "fika@gmail.com"
 
 	# Google Maps section
 	# [params.location]
