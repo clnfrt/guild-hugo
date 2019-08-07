@@ -111,7 +111,7 @@ publishdir = "clnfrt.github.io"
 		headline = "Kontakt"
 		description = "Vi använder primärt Discord som kommunikationsmedel. Tveka inte höra av er med eventuella frågor eller funderingar."
 		phone = "[https://discord.gg/yhwaRXx](//discord.gg/yhwaRXx)"
-		email = "fika@gmail.com"
+	#	email = "fika@gmail.com"
 
 	# Google Maps section
 	# [params.location]
