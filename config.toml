@@ -63,7 +63,7 @@ publishdir = "clnfrt.github.io"
 	# About section
 	[params.about]
 		headline    = "Gör Azeroth lagom igen!"
-		description = "\\<FIKA\\> är en helsvensk raiding guild. Vi eftersträvar en social och trevlig miljö med välstrukturerade raids. De flesta av oss har spelat på högre nivåer i Vanilla."
+		description = "\\<FIKA\\> är en semi-hardcore PVE raiding guild. Alla raids leds på svenska. Vi eftersträvar en social och trevlig miljö med välstrukturerade raids. De flesta av oss har spelat på högre nivåer i Vanilla."
 		buttonText  = "Ta mig till rekryteringssidan!"
 
 
