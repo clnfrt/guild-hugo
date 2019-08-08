@@ -89,7 +89,7 @@ publishdir = "clnfrt.github.io"
         [[params.services.list]]
             icon = "fa-clock-o"
             title = "Raidtider"
-            description = "Tor/Sön 19-22"
+            description = "Tor/sön 19-22<br>(Ons 19-22)"
 
     # Portfolio modals
 	[params.portfolio.modal]
