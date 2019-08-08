@@ -104,7 +104,7 @@ publishdir = "clnfrt.github.io"
 
 		[params.aside.button]
 			text = "Guild/Loot-regler"
-			link = "//docs.google.com/document/d/1EtvE2NDLSasN4ArWQxdwrX3eMGH0Yp2XRvErL_n8JVQ"
+			link = "//docs.google.com/document/d/1liS8B6hkuzZdKumQJPxGq3gnhO0sqCEkOa_bvFzxJQU/"
 
 	# Contact section
 	[params.contact]
