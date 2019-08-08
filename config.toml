@@ -56,7 +56,7 @@ publishdir = "clnfrt.github.io"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "\\<Fika\\>"
-		subtitle   = "Swedish [PVP *Server*] Horde Guild"
+		subtitle   = "Swedish [\\<insert realm\\>](//nordicclassic.jinnis.se/) Horde Guild"
 		buttonText = "Skriv upp dig på gofika idag!"
 
 
@@ -74,7 +74,7 @@ publishdir = "clnfrt.github.io"
         [[params.services.list]]
             icon = "fa-line-chart"
             title = "Raid Logs"
-            description = "[Realmplayers](http://realmplayers.com/RaidStats/RaidList.aspx?realm=Ely&guild=FIKA) / [Legacy Logs](https://legacy-logs.com/Vanilla/Guild/Elysium/FIKA/0)"
+            description = "[TBA](https://images-na.ssl-images-amazon.com/images/I/61SDHsR6rjL.jpg)"
 
         [[params.services.list]]
 			icon = "fa-volume-up"
