@@ -56,7 +56,7 @@ publishdir = "clnfrt.github.io"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "\\<Fika\\>"
-		subtitle   = "Swedish [\\<insert realm\\>](//nordicclassic.jinnis.se/) Horde Guild"
+		subtitle   = "Swedish [\\<Shazzrah EU\\>](//discordapp.com/invite/huTAr4s/) Horde Guild"
 		buttonText = "Skriv upp dig på gofika idag!"
 
 
