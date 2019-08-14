@@ -43,7 +43,7 @@ publishdir = "clnfrt.github.io"
 
 	# Navigation
 	[params.navigation]
-		brand = "\\<FIKA\\> @ Servername"
+		brand = "\\<FIKA\\> @ Shazzrah EU"
 
 		[params.navigation.links]
 			about     = "Ansök"
