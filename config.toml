@@ -43,7 +43,7 @@ publishdir = "clnfrt.github.io"
 
 	# Navigation
 	[params.navigation]
-		brand = "\\<FIKA\\> @ Shazzrah EU"
+		brand = "\\<FIKA\\> @ Gehennas EU"
 
 		[params.navigation.links]
 			about     = "Ansök"
@@ -56,7 +56,7 @@ publishdir = "clnfrt.github.io"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "\\<Fika\\>"
-		subtitle   = "Swedish [\\<Shazzrah EU\\>](//discordapp.com/invite/huTAr4s/) Horde Guild"
+		subtitle   = "Swedish [\\<Gehennas EU\\>](//discordapp.com/invite/huTAr4s/) Horde Guild"
 		buttonText = "Skriv upp dig på gofika idag!"
 
 
