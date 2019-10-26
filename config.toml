@@ -74,7 +74,7 @@ publishdir = "clnfrt.github.io"
         [[params.services.list]]
             icon = "fa-line-chart"
             title = "Raid Logs"
-            description = "[TBA](https://images-na.ssl-images-amazon.com/images/I/61SDHsR6rjL.jpg)"
+            description = "[WarcraftLogs](https://classic.warcraftlogs.com/guild/reports-list/480016)"
 
         [[params.services.list]]
 			icon = "fa-volume-up"
@@ -89,7 +89,7 @@ publishdir = "clnfrt.github.io"
         [[params.services.list]]
             icon = "fa-clock-o"
             title = "Raidtider"
-            description = "Tor/sön 19-22<br>(Ons 19-22)"
+            description = "Tis/Tor 19-22<br>(Ons 19-22)"
 
     # Portfolio modals
 	[params.portfolio.modal]
