@@ -63,7 +63,7 @@ publishdir = "clnfrt.github.io"
 	# About section
 	[params.about]
 		headline    = "Gör Azeroth lagom igen!"
-		description = "\\<FIKA\\> är en semi-hardcore PVE raiding guild. Alla raids leds på svenska. Vi eftersträvar en social och trevlig miljö med välstrukturerade raids. De flesta av oss har spelat på högre nivåer i Vanilla."
+		description = "\\<FIKA\\> är en semi-hardcore PvE raiding guild med två clears i veckan. Alla raids leds på svenska. Vi eftersträvar en social och trevlig miljö med välstrukturerade raids. De flesta av oss har spelat på högre nivåer i Vanilla."
 		buttonText  = "Ta mig till rekryteringssidan!"
 
 
@@ -84,7 +84,7 @@ publishdir = "clnfrt.github.io"
 		[[params.services.list]]
             icon = "fa-newspaper-o"
             title = "Progress"
-            description = "MC 10**/**10 Onyxia 1**/**1"
+            description = "MC 10/10 Onyxia 1/1 BWL 8/8"
 
         [[params.services.list]]
             icon = "fa-clock-o"
